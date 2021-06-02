@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sajasmohammed
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning flutter app development 
-- 💞️ I’m looking to collaborate on a team
+- 💞️ I’m looking to collaborate on a good company with good salary
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/mohammedsajas/
 
 <!---
