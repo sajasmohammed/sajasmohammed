@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajasmohammed
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning next js and nest js
+- 🌱 I’m currently learning next js and blockchain technologies
 - 💞️ I’m looking to collaborate on a good company with good salary
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/mohammedsajas/
 
